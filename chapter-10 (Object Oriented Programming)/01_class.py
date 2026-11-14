@@ -1,5 +1,5 @@
 class Employee:
-    language = "py" #this is class atrribute
+    language = "python" #this is class atrribute
     salary = 1200000
 
 
